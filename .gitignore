@@ -1,0 +1,10 @@
+.idea
+classes
+build
+*.class
+*.log
+
+.gradle
+
+# Package Files #
+*.jar
