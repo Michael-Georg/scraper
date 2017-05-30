@@ -5,6 +5,3 @@ build
 *.log
 
 .gradle
-
-# Package Files #
-*.jar
